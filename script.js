@@ -78,7 +78,7 @@ for (var forin in json) {
 
 // for of
 for (var forof of json) {
-  console.log("using for loop:-" + forof.email);
+  console.log("using for of:-" + forof.email);
 }
 
 // for each
